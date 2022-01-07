@@ -6,8 +6,10 @@ Use below command:
 > node app.js
 
 Sample command:
->C:\_work\projs\nodejs\first-nodejs-web-server>node app.js
+```
+C:\_work\projs\nodejs\first-nodejs-web-server>node app.js
 Server is listening on port 3000
+```
 
 ## Client Confirm
 Input `http://localhost:3000/` in browser
